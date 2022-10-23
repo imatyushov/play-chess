@@ -1,46 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Имплементация шахматной партии**
+<img width="1142" alt="Снимок экрана 2022-10-18 в 20 54 46" src="https://user-images.githubusercontent.com/80617082/197386372-c430f305-dd1a-43b8-a9dc-45cd02145052.png">
+<img width="1440" alt="Снимок экрана 2022-10-23 в 13 04 11" src="https://user-images.githubusercontent.com/80617082/197386377-405e30e5-6e32-44d3-b148-c1f3552fc250.png">
+<img width="1440" alt="Снимок экрана 2022-10-23 в 13 04 44" src="https://user-images.githubusercontent.com/80617082/197386381-9a53b550-7103-45dd-a36d-55d324c814b2.png">
+<img width="1440" alt="Снимок экрана 2022-10-23 в 13 05 58" src="https://user-images.githubusercontent.com/80617082/197386384-016b43b4-034f-4fc8-8ce4-de1b81568a3e.png">
